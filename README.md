@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @commits-ui-pranay
-- 👀 I’m interested in contribution to tech industry from my side
+- 👋 Hi, I’m @commits-ui-pranay🎀
+- 👀 I’m interested in collabration
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on datascience projects
+- 💞️ dedicated in learning 🚀
 - 📫 every one can reach me out @linkedIn PranayGolle
 
 <!---
