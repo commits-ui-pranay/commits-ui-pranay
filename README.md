@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @commits-ui-pranay🎀
+- 👋 Hi, I’m Pranay Golle🎀
 - 👀 I’m interested in collabration
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working as AWS DevSecOps Engineer using major tools such as Docker, Kubernetes, Terraform and Ansible for automation CI/CD as Jenkins/Github actions. Professional in linux/bash/Shell scripting
 - 💞️ dedicated in learning 🚀
 - 📫 reach me out @linkedIn PranayGolle 
-
-<!---
-commits-ui-pranay/commits-ui-pranay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
